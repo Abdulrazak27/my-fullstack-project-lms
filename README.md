@@ -111,15 +111,8 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 
 
-**Add Course:**
-![Screenshot (98)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/a57c4b2b-d8ca-4035-8153-2626298474e6)
-
-
-
-
-
 
 **Home page:**
 ![Screenshot (80)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/8d67282c-0043-4ed6-ae9d-956489b27e55)
 ![Screenshot (81)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/956f27e9-3552-4411-8ff5-d2cdc640c240)
-![Screenshot (82)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/a6550a77-605c-46e9-b038-fd2b1949575b)
+
